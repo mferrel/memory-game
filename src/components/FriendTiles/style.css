@@ -1,5 +1,5 @@
 .tilesimg{
-  padding: 10px;
+  padding: 8px;
   border: none;
   text-align: center;
 
@@ -15,11 +15,12 @@
 
 
   background: #fff;
-  border-radius: 2px;
-  height: 325px;
-  margin: 1rem;
+  border-radius: 1rem;
+  margin-top: 10px;
+  margin: 10px;
+  margin-right: 18px;
+  margin-bottom: 10px;
   position: relative;
-  width: 325px;
+  width: 227px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
 }
