@@ -71,5 +71,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 NOTES:
 
-look for spongebob activity (friend finder)
+MARENA: gh-pages-branch is the working local branch. Push and pull from it. GH-pages branch is the deployed branch. 
 
