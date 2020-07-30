@@ -26,7 +26,7 @@
 {
     "id": 5,
     "name": "Konstantin", 
-    "image": "/friendtiles/konstantin.jpg",
+    "image": "/friendtiles/Konstantin.jpg",
     "clicked": false
 
 },
@@ -39,7 +39,7 @@
 {
     "id": 7,
     "name": "Kenny",
-    "image": "/friendtiles/kenny.jpg",
+    "image": "/friendtiles/Kenny.jpg",
     "clicked": false
 },
 {
